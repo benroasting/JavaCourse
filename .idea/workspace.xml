@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5326b86-2213-4d36-b3ae-1c0a9c0bdc87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basics/GrossPayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/GrossPayCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.QuotaCalculator">
+  <component name="RunManager" selected="Application.GradeMessage">
+    <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage" />
+      <module name="java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decision_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GrossPayCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.GrossPayCalculator" />
       <module name="java-course" />
@@ -93,8 +105,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_structure.TestResults" />
+      <module name="java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decision_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeMessage" />
+        <item itemvalue="Application.TestResults" />
         <item itemvalue="Application.QuotaCalculator" />
         <item itemvalue="Application.SalaryCalculator" />
         <item itemvalue="Application.GrossPayCalculator" />
@@ -109,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685477390277</updated>
-      <workItem from="1685477391566" duration="5206000" />
+      <workItem from="1685477391566" duration="10377000" />
     </task>
     <servers />
   </component>
