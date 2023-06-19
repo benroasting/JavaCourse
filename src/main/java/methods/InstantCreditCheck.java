@@ -27,10 +27,12 @@ public class InstantCreditCheck {
 
     private static boolean isUserQualified(double salary, int creditScore) {
 
-        if(salary >= requiredSalary && creditScore >= requiredCreditScore){
-            return true;
-        }
-        else return false;
+//        if(salary >= requiredSalary && creditScore >= requiredCreditScore){
+//            return true;
+//        }
+//        else return false;
+
+        return (salary >= requiredSalary && creditScore >= requiredCreditScore);
     }
 
     public static double getSalary(){
